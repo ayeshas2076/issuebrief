@@ -1,0 +1,8 @@
+Title: Search is case-sensitive
+
+Searching for "Java" returns three results.
+Searching for "java" returns no results.
+
+Expected: Both searches should return the same results.
+
+Project version was not provided.
